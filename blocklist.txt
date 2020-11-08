@@ -1,0 +1,7 @@
+# Youtube list
+#------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
